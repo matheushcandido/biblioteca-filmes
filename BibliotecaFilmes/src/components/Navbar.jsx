@@ -3,6 +3,8 @@ import { BiCameraMovie, BiSearchAlt2 } from "react-icons/bi"
 
 import React from 'react'
 
+import "./Navbar.css";
+
 const Navbar = () => {
   return (
     <nav id="navBar">
