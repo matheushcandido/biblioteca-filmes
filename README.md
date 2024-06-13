@@ -1,2 +1,2 @@
 ## Biblioteca de Filmes
-Farei um projeto React que consumirá uma API de filmes.
+Projeto feito em React que consome a API do TMDB, onde lista, mostra detalhes e tem função de pesquisa.
